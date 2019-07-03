@@ -73,3 +73,7 @@ Please feel free to:
 * Open a Pull Request
 * Join the [gittr chat](https://gitter.im/char-rnn-tensorflow/Lobby)
 * Share your success stories and data sets!
+
+
+注：
+用于学习写诗，学习使用RNN的字符模型，学习并生成古诗。数据来自于http://www16.zzu.edu.cn/qts/ ,总共4万多首唐诗。
